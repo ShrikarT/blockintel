@@ -1,0 +1,182 @@
+[
+  {
+    "address": "0xA1B2C3D4E5F6G7H8I9J0K1L2M3N4O5P6Q7R8S9T0",
+    "tag": "Scam",
+    "confidenceScore": 92,
+    "lastSeen": "2025-09-20",
+    "context": "Reported for phishing scam activity.",
+    "riskLevel": "High",
+    "relatedEntities": ["0xB1C2D3E4F5G6H7I8J9K0L1M2N3O4P5Q6R7S8T9U0"]
+  },
+  {
+    "address": "0xB1C2D3E4F5G6H7I8J9K0L1M2N3O4P5Q6R7S8T9U0",
+    "tag": "Drugs",
+    "confidenceScore": 85,
+    "lastSeen": "2025-09-18",
+    "context": "Linked to illegal drug transactions.",
+    "riskLevel": "High",
+    "relatedEntities": ["0xA1B2C3D4E5F6G7H8I9J0K1L2M3N4O5P6Q7R8S9T0", "0xC1D2E3F4G5H6I7J8K9L0M1N2O3P4Q5R6S7T8U9V0"]
+  },
+  {
+    "address": "0xC1D2E3F4G5H6I7J8K9L0M1N2O3P4Q5R6S7T8U9V0",
+    "tag": "Ransomware",
+    "confidenceScore": 78,
+    "lastSeen": "2025-09-15",
+    "context": "Used in ransomware payout.",
+    "riskLevel": "Medium",
+    "relatedEntities": ["0xB1C2D3E4F5G6H7I8J9K0L1M2N3O4P5Q6R7S8T9U0"]
+  },
+  {
+    "address": "0xD1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0",
+    "tag": "Laundering",
+    "confidenceScore": 65,
+    "lastSeen": "2025-09-10",
+    "context": "Suspected money laundering.",
+    "riskLevel": "Medium",
+    "relatedEntities": ["0xE1F2G3H4I5J6K7L8M9N0O1P2Q3R4S5T6U7V8W9X0"]
+  },
+  {
+    "address": "0xE1F2G3H4I5J6K7L8M9N0O1P2Q3R4S5T6U7V8W9X0",
+    "tag": "Terror Funding",
+    "confidenceScore": 88,
+    "lastSeen": "2025-09-05",
+    "context": "Linked to terror funding activities.",
+    "riskLevel": "High",
+    "relatedEntities": ["0xD1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0"]
+  },
+  {
+    "address": "0xF1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6V7W8X9Y0",
+    "tag": "Scam",
+    "confidenceScore": 55,
+    "lastSeen": "2025-08-30",
+    "context": "Fake investment scheme.",
+    "riskLevel": "Low",
+    "relatedEntities": ["0xA1B2C3D4E5F6G7H8I9J0K1L2M3N4O5P6Q7R8S9T0"]
+  },
+  {
+    "address": "0xG1H2I3J4K5L6M7N8O9P0Q1R2S3T4U5V6W7X8Y9Z0",
+    "tag": "Drugs",
+    "confidenceScore": 73,
+    "lastSeen": "2025-08-25",
+    "context": "Suspected drug trafficking.",
+    "riskLevel": "Medium",
+    "relatedEntities": ["0xB1C2D3E4F5G6H7I8J9K0L1M2N3O4P5Q6R7S8T9U0"]
+  },
+  {
+    "address": "0xH1I2J3K4L5M6N7O8P9Q0R1S2T3U4V5W6X7Y8Z9A0",
+    "tag": "Ransomware",
+    "confidenceScore": 80,
+    "lastSeen": "2025-08-20",
+    "context": "Ransomware payout address.",
+    "riskLevel": "High",
+    "relatedEntities": ["0xC1D2E3F4G5H6I7J8K9L0M1N2O3P4Q5R6S7T8U9V0"]
+  },
+  {
+    "address": "0xI1J2K3L4M5N6O7P8Q9R0S1T2U3V4W5X6Y7Z8A9B0",
+    "tag": "Laundering",
+    "confidenceScore": 60,
+    "lastSeen": "2025-08-15",
+    "context": "Money laundering ring.",
+    "riskLevel": "Medium",
+    "relatedEntities": ["0xD1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0"]
+  },
+  {
+    "address": "0xJ1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0",
+    "tag": "Terror Funding",
+    "confidenceScore": 95,
+    "lastSeen": "2025-08-10",
+    "context": "Terrorist organization funding.",
+    "riskLevel": "High",
+    "relatedEntities": ["0xE1F2G3H4I5J6K7L8M9N0O1P2Q3R4S5T6U7V8W9X0"]
+  },
+  {
+    "address": "0xK1L2M3N4O5P6Q7R8S9T0U1V2W3X4Y5Z6A7B8C9D0",
+    "tag": "Scam",
+    "confidenceScore": 70,
+    "lastSeen": "2025-08-05",
+    "context": "Ponzi scheme address.",
+    "riskLevel": "Medium",
+    "relatedEntities": ["0xF1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6V7W8X9Y0"]
+  },
+  {
+    "address": "0xL1M2N3O4P5Q6R7S8T9U0V1W2X3Y4Z5A6B7C8D9E0",
+    "tag": "Drugs",
+    "confidenceScore": 82,
+    "lastSeen": "2025-08-01",
+    "context": "Drug cartel address.",
+    "riskLevel": "High",
+    "relatedEntities": ["0xG1H2I3J4K5L6M7N8O9P0Q1R2S3T4U5V6W7X8Y9Z0"]
+  },
+  {
+    "address": "0xM1N2O3P4Q5R6S7T8U9V0W1X2Y3Z4A5B6C7D8E9F0",
+    "tag": "Ransomware",
+    "confidenceScore": 77,
+    "lastSeen": "2025-07-28",
+    "context": "Ransomware payout.",
+    "riskLevel": "Medium",
+    "relatedEntities": ["0xH1I2J3K4L5M6N7O8P9Q0R1S2T3U4V5W6X7Y8Z9A0"]
+  },
+  {
+    "address": "0xN1O2P3Q4R5S6T7U8V9W0X1Y2Z3A4B5C6D7E8F9G0",
+    "tag": "Laundering",
+    "confidenceScore": 68,
+    "lastSeen": "2025-07-25",
+    "context": "Money laundering operation.",
+    "riskLevel": "Medium",
+    "relatedEntities": ["0xI1J2K3L4M5N6O7P8Q9R0S1T2U3V4W5X6Y7Z8A9B0"]
+  },
+  {
+    "address": "0xO1P2Q3R4S5T6U7V8W9X0Y1Z2A3B4C5D6E7F8G9H0",
+    "tag": "Terror Funding",
+    "confidenceScore": 90,
+    "lastSeen": "2025-07-20",
+    "context": "Suspected terror funding.",
+    "riskLevel": "High",
+    "relatedEntities": ["0xJ1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0"]
+  },
+  {
+    "address": "0xP1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4D5E6F7G8H9I0",
+    "tag": "Scam",
+    "confidenceScore": 58,
+    "lastSeen": "2025-07-15",
+    "context": "Phishing scam address.",
+    "riskLevel": "Low",
+    "relatedEntities": ["0xK1L2M3N4O5P6Q7R8S9T0U1V2W3X4Y5Z6A7B8C9D0"]
+  },
+  {
+    "address": "0xQ1R2S3T4U5V6W7X8Y9Z0A1B2C3D4E5F6G7H8I9J0",
+    "tag": "Drugs",
+    "confidenceScore": 75,
+    "lastSeen": "2025-07-10",
+    "context": "Drug trafficking address.",
+    "riskLevel": "Medium",
+    "relatedEntities": ["0xL1M2N3O4P5Q6R7S8T9U0V1W2X3Y4Z5A6B7C8D9E0"]
+  },
+  {
+    "address": "0xR1S2T3U4V5W6X7Y8Z9A0B1C2D3E4F5G6H7I8J9K0",
+    "tag": "Ransomware",
+    "confidenceScore": 83,
+    "lastSeen": "2025-07-05",
+    "context": "Ransomware address.",
+    "riskLevel": "High",
+    "relatedEntities": ["0xM1N2O3P4Q5R6S7T8U9V0W1X2Y3Z4A5B6C7D8E9F0"]
+  },
+  {
+    "address": "0xS1T2U3V4W5X6Y7Z8A9B0C1D2E3F4G5H6I7J8K9L0",
+    "tag": "Laundering",
+    "confidenceScore": 62,
+    "lastSeen": "2025-07-01",
+    "context": "Money laundering address.",
+    "riskLevel": "Medium",
+    "relatedEntities": ["0xN1O2P3Q4R5S6T7U8V9W0X1Y2Z3A4B5C6D7E8F9G0"]
+  },
+  {
+    "address": "0xT1U2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0",
+    "tag": "Terror Funding",
+    "confidenceScore": 87,
+    "lastSeen": "2025-06-28",
+    "context": "Terror funding address.",
+    "riskLevel": "High",
+    "relatedEntities": ["0xO1P2Q3R4S5T6U7V8W9X0Y1Z2A3B4C5D6E7F8G9H0"]
+  }
+]

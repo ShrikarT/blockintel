@@ -1,0 +1,1080 @@
+[
+  {
+    "address": "0x6818809EefCe719E480a7526D76bD3e561526b46",
+    "nansen": {
+      "pagination": {
+        "page": 1,
+        "per_page": 10,
+        "is_last_page": true
+      },
+      "data": [
+        {
+          "chain": "ethereum",
+          "address": "0x6818809EefCe719E480a7526D76bD3e561526b46",
+          "token_address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+          "token_symbol": "ETH",
+          "token_name": "Ethereum",
+          "token_amount": 1.1313065326633165,
+          "price_usd": 4183.993352058883,
+          "value_usd": 4733.3790118041015
+        },
+        {
+          "chain": "ethereum",
+          "address": "0x6818809EefCe719E480a7526D76bD3e561526b46",
+          "token_address": "0x06450dee7fd2fb8e39061434babcfc05599a6fb8",
+          "token_symbol": "XEN",
+          "token_name": "XEN Crypto",
+          "token_amount": 1000000,
+          "price_usd": 2.8234124977416206e-8,
+          "value_usd": 0.028234124977416206
+        },
+        {
+          "chain": "ethereum",
+          "address": "0x6818809EefCe719E480a7526D76bD3e561526b46",
+          "token_address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+          "token_symbol": "DAI",
+          "token_name": "DAI",
+          "token_amount": 0.0025,
+          "price_usd": 0.9985978223229515,
+          "value_usd": 0.0024964945558073786
+        }
+      ]
+    },
+    "ai": {
+      "category": "Other",
+      "confidence": 0.9,
+      "explanation": "The address was reported on public sources for suspicious activity, but the specific nature of the illicit activity (e.g., fraud, money laundering, drugs) is not detailed in the provided context.",
+      "suggested_tags": [
+        "Suspicious Activity",
+        "Reported Address"
+      ]
+    },
+    "tags": [
+      "Suspicious Activity",
+      "Reported Address"
+    ],
+    "lastSeen": "2025-09-23T15:57:42.892Z",
+    "sampleTx": [],
+    "graph": {
+      "nodes": [
+        {
+          "id": "0x6818809EefCe719E480a7526D76bD3e561526b46",
+          "label": "0x6818809EefCe719E480a7526D76bD3e561526b46",
+          "type": "address",
+          "riskScore": 0.9
+        }
+      ],
+      "links": []
+    },
+    "createdAt": "2025-09-23T13:56:16.098Z",
+    "updatedAt": "2025-09-23T15:57:42.893Z"
+  },
+  {
+    "address": "0x12D66f87A04A9E220743712cE6d9bB1B5616B8Fc",
+    "nansen": {
+      "pagination": {
+        "page": 1,
+        "per_page": 10,
+        "is_last_page": true
+      },
+      "data": [
+        {
+          "chain": "ethereum",
+          "address": "0x12D66f87A04A9E220743712cE6d9bB1B5616B8Fc",
+          "token_address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+          "token_symbol": "ETH",
+          "token_name": "Ethereum",
+          "token_amount": 446.9,
+          "price_usd": 4191.006884251062,
+          "value_usd": 1872960.9765717995
+        },
+        {
+          "chain": "ethereum",
+          "address": "0x12D66f87A04A9E220743712cE6d9bB1B5616B8Fc",
+          "token_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "token_symbol": "WETH",
+          "token_name": "Wrapped Ether",
+          "token_amount": 1e-7,
+          "price_usd": 4188.769987769694,
+          "value_usd": 0.0004188769987769694
+        },
+        {
+          "chain": "ethereum",
+          "address": "0x12D66f87A04A9E220743712cE6d9bB1B5616B8Fc",
+          "token_address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+          "token_symbol": "USDT",
+          "token_name": "Tether USD",
+          "token_amount": 0.00002,
+          "price_usd": 1.0005617276237715,
+          "value_usd": 0.000020011234552475433
+        }
+      ]
+    },
+    "ai": {
+      "category": "Money Laundering",
+      "confidence": 0.75,
+      "explanation": "The address was publicly reported for suspicious activity, and the significant amount of funds held (~$1.87M USD) is consistent with potential money laundering operations.",
+      "suggested_tags": [
+        "Publicly Reported",
+        "Suspicious Activity",
+        "High Value"
+      ]
+    },
+    "tags": [
+      "Publicly Reported",
+      "Suspicious Activity",
+      "High Value"
+    ],
+    "lastSeen": "2025-09-23T15:57:56.310Z",
+    "sampleTx": [],
+    "graph": {
+      "nodes": [
+        {
+          "id": "0x12D66f87A04A9E220743712cE6d9bB1B5616B8Fc",
+          "label": "0x12D66f87A04A9E220743712cE6d9bB1B5616B8Fc",
+          "type": "address",
+          "riskScore": 0.75
+        }
+      ],
+      "links": []
+    },
+    "createdAt": "2025-09-23T13:56:20.658Z",
+    "updatedAt": "2025-09-23T15:57:56.310Z"
+  },
+  {
+    "address": "0x178169B423a011fff22B9e3F3abeA13414dDD0F1",
+    "nansen": {
+      "pagination": {
+        "page": 1,
+        "per_page": 10,
+        "is_last_page": true
+      },
+      "data": [
+        {
+          "chain": "ethereum",
+          "address": "0x178169B423a011fff22B9e3F3abeA13414dDD0F1",
+          "token_address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+          "token_symbol": "WBTC",
+          "token_name": "Wrapped BTC",
+          "token_amount": 0.3,
+          "price_usd": 112845.09701335925,
+          "value_usd": 33853.52910400777
+        }
+      ]
+    },
+    "ai": {
+      "category": "Other",
+      "confidence": 0.8,
+      "explanation": "The address has been reported on public sources for suspicious activity, but the specific nature of the illicit activity is not detailed in the provided context.",
+      "suggested_tags": [
+        "suspicious_activity",
+        "public_report",
+        "unclassified_illicit_funds"
+      ]
+    },
+    "tags": [
+      "suspicious_activity",
+      "public_report",
+      "unclassified_illicit_funds"
+    ],
+    "lastSeen": "2025-09-23T15:58:11.433Z",
+    "sampleTx": [],
+    "graph": {
+      "nodes": [
+        {
+          "id": "0x178169B423a011fff22B9e3F3abeA13414dDD0F1",
+          "label": "0x178169B423a011fff22B9e3F3abeA13414dDD0F1",
+          "type": "address",
+          "riskScore": 0.8
+        }
+      ],
+      "links": []
+    },
+    "createdAt": "2025-09-23T13:56:25.213Z",
+    "updatedAt": "2025-09-23T15:58:11.435Z"
+  },
+  {
+    "address": "0x47CE0C6eD5B0Ce3d3A51fdb1C52DC66a7c3c2936",
+    "nansen": {
+      "pagination": {
+        "page": 1,
+        "per_page": 10,
+        "is_last_page": true
+      },
+      "data": [
+        {
+          "chain": "ethereum",
+          "address": "0x47CE0C6eD5B0Ce3d3A51fdb1C52DC66a7c3c2936",
+          "token_address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+          "token_symbol": "ETH",
+          "token_name": "Ethereum",
+          "token_amount": 2926,
+          "price_usd": 4183.993352058883,
+          "value_usd": 12242364.548124291
+        },
+        {
+          "chain": "ethereum",
+          "address": "0x47CE0C6eD5B0Ce3d3A51fdb1C52DC66a7c3c2936",
+          "token_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "token_symbol": "WETH",
+          "token_name": "Wrapped Ether",
+          "token_amount": 1e-7,
+          "price_usd": 4190.295603451303,
+          "value_usd": 0.00041902956034513023
+        }
+      ]
+    },
+    "ai": {
+      "category": "Money Laundering",
+      "confidence": 0.75,
+      "explanation": "The address holds a significant amount of funds (over $12M USD) and has been publicly reported for 'suspicious activity', which strongly suggests potential money laundering to obscure the origin of these large sums.",
+      "suggested_tags": [
+        "Suspicious Funds",
+        "Illicit Proceeds",
+        "Large Balance",
+        "Publicly Reported"
+      ]
+    },
+    "tags": [
+      "Suspicious Funds",
+      "Illicit Proceeds",
+      "Large Balance",
+      "Publicly Reported"
+    ],
+    "lastSeen": "2025-09-23T15:58:24.447Z",
+    "sampleTx": [],
+    "graph": {
+      "nodes": [
+        {
+          "id": "0x47CE0C6eD5B0Ce3d3A51fdb1C52DC66a7c3c2936",
+          "label": "0x47CE0C6eD5B0Ce3d3A51fdb1C52DC66a7c3c2936",
+          "type": "address",
+          "riskScore": 0.75
+        }
+      ],
+      "links": []
+    },
+    "createdAt": "2025-09-23T13:56:29.776Z",
+    "updatedAt": "2025-09-23T15:58:24.448Z"
+  },
+  {
+    "address": "0x610B717796ad172B316836AC95a2ffad065CeaB4",
+    "nansen": {
+      "pagination": {
+        "page": 1,
+        "per_page": 10,
+        "is_last_page": true
+      },
+      "data": [
+        {
+          "chain": "ethereum",
+          "address": "0x610B717796ad172B316836AC95a2ffad065CeaB4",
+          "token_address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+          "token_symbol": "WBTC",
+          "token_name": "Wrapped BTC",
+          "token_amount": 3,
+          "price_usd": 112905.57181898454,
+          "value_usd": 338716.7154569536
+        }
+      ]
+    },
+    "ai": {
+      "category": "Other",
+      "confidence": 0.8,
+      "explanation": "The address was reported on public sources for suspicious activity, but the provided context does not specify the exact nature of the illicit activity.",
+      "suggested_tags": [
+        "Suspicious Activity",
+        "Reported",
+        "Unspecified Illicit Activity"
+      ]
+    },
+    "tags": [
+      "Suspicious Activity",
+      "Reported",
+      "Unspecified Illicit Activity"
+    ],
+    "lastSeen": "2025-09-23T15:58:36.892Z",
+    "sampleTx": [],
+    "graph": {
+      "nodes": [
+        {
+          "id": "0x610B717796ad172B316836AC95a2ffad065CeaB4",
+          "label": "0x610B717796ad172B316836AC95a2ffad065CeaB4",
+          "type": "address",
+          "riskScore": 0.8
+        }
+      ],
+      "links": []
+    },
+    "createdAt": "2025-09-23T13:56:34.386Z",
+    "updatedAt": "2025-09-23T15:58:36.892Z"
+  },
+  {
+    "address": "0x4736dCf1b7A3d580672CcE6E7c65cd5cc9cFBa9D",
+    "nansen": {
+      "pagination": {
+        "page": 1,
+        "per_page": 10,
+        "is_last_page": true
+      },
+      "data": [
+        {
+          "chain": "ethereum",
+          "address": "0x4736dCf1b7A3d580672CcE6E7c65cd5cc9cFBa9D",
+          "token_address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+          "token_symbol": "USDC",
+          "token_name": "USD Coin",
+          "token_amount": 74000,
+          "price_usd": 0.9997080511101536,
+          "value_usd": 73978.39578215136
+        }
+      ]
+    },
+    "ai": {
+      "category": "Fraud/Scam",
+      "confidence": 0.8,
+      "explanation": "The address was publicly reported for suspicious activity, which commonly indicates involvement in fraudulent schemes or scams, processing a significant amount of USDC.",
+      "suggested_tags": [
+        "scam",
+        "fraud",
+        "reported",
+        "illicit funds",
+        "high risk"
+      ]
+    },
+    "tags": [
+      "scam",
+      "fraud",
+      "reported",
+      "illicit funds",
+      "high risk"
+    ],
+    "lastSeen": "2025-09-23T15:58:55.319Z",
+    "sampleTx": [],
+    "graph": {
+      "nodes": [
+        {
+          "id": "0x4736dCf1b7A3d580672CcE6E7c65cd5cc9cFBa9D",
+          "label": "0x4736dCf1b7A3d580672CcE6E7c65cd5cc9cFBa9D",
+          "type": "address",
+          "riskScore": 0.8
+        }
+      ],
+      "links": []
+    },
+    "createdAt": "2025-09-23T13:56:38.929Z",
+    "updatedAt": "2025-09-23T15:58:55.320Z"
+  },
+  {
+    "address": "0x09193888b3f38C82dEdfda55259A82C0E7De875E",
+    "nansen": {
+      "pagination": {
+        "page": 1,
+        "per_page": 10,
+        "is_last_page": true
+      },
+      "data": []
+    },
+    "ai": {
+      "category": "Other",
+      "confidence": 0.8,
+      "explanation": "The address has been reported on public sources for suspicious activity, but no specific illicit category is provided in the context.",
+      "suggested_tags": [
+        "Suspicious",
+        "Unclassified"
+      ]
+    },
+    "tags": [
+      "Suspicious",
+      "Unclassified"
+    ],
+    "lastSeen": "2025-09-23T15:59:01.258Z",
+    "sampleTx": [],
+    "graph": {
+      "nodes": [
+        {
+          "id": "0x09193888b3f38C82dEdfda55259A82C0E7De875E",
+          "label": "0x09193888b3f38C82dEdfda55259A82C0E7De875E",
+          "type": "address",
+          "riskScore": 0.8
+        }
+      ],
+      "links": []
+    },
+    "createdAt": "2025-09-23T13:56:43.487Z",
+    "updatedAt": "2025-09-23T15:59:01.259Z"
+  },
+  {
+    "address": "0x527653eA119F3E6a1F5BD18fbF4714081D7B31ce",
+    "nansen": {
+      "pagination": {
+        "page": 1,
+        "per_page": 10,
+        "is_last_page": true
+      },
+      "data": []
+    },
+    "ai": {
+      "category": "Other",
+      "confidence": 0.75,
+      "explanation": "The address is reported on public sources for suspicious activity, but the specific nature of the illicit activity is not detailed in the provided context, hence classified as 'Other'.",
+      "suggested_tags": [
+        "Suspicious Activity",
+        "Reported",
+        "Unidentified Illicit Activity"
+      ]
+    },
+    "tags": [
+      "Suspicious Activity",
+      "Reported",
+      "Unidentified Illicit Activity"
+    ],
+    "lastSeen": "2025-09-23T15:59:06.377Z",
+    "sampleTx": [],
+    "graph": {
+      "nodes": [
+        {
+          "id": "0x527653eA119F3E6a1F5BD18fbF4714081D7B31ce",
+          "label": "0x527653eA119F3E6a1F5BD18fbF4714081D7B31ce",
+          "type": "address",
+          "riskScore": 0.75
+        }
+      ],
+      "links": []
+    },
+    "createdAt": "2025-09-23T13:56:48.081Z",
+    "updatedAt": "2025-09-23T15:59:06.378Z"
+  },
+  {
+    "address": "0x653477c392c16b0765603074f157314Cc4f40c32",
+    "nansen": {
+      "pagination": {
+        "page": 1,
+        "per_page": 10,
+        "is_last_page": true
+      },
+      "data": []
+    },
+    "ai": {
+      "category": "Fraud/Scam",
+      "confidence": 0.4,
+      "explanation": "The address has been publicly reported for suspicious activity, which in the cryptocurrency space is often associated with potential fraudulent schemes or scams.",
+      "suggested_tags": [
+        "suspicious activity",
+        "publicly reported",
+        "potential fraud",
+        "scam alert"
+      ]
+    },
+    "tags": [
+      "suspicious activity",
+      "publicly reported",
+      "potential fraud",
+      "scam alert"
+    ],
+    "lastSeen": "2025-09-23T15:59:20.071Z",
+    "sampleTx": [],
+    "graph": {
+      "nodes": [
+        {
+          "id": "0x653477c392c16b0765603074f157314Cc4f40c32",
+          "label": "0x653477c392c16b0765603074f157314Cc4f40c32",
+          "type": "address",
+          "riskScore": 0.4
+        }
+      ],
+      "links": []
+    },
+    "createdAt": "2025-09-23T13:56:52.631Z",
+    "updatedAt": "2025-09-23T15:59:20.072Z"
+  },
+  {
+    "address": "0x94A1B5CdB22c43faab4AbEb5c74999895464Ddaf",
+    "nansen": {
+      "pagination": {
+        "page": 1,
+        "per_page": 10,
+        "is_last_page": true
+      },
+      "data": []
+    },
+    "ai": {
+      "category": "Other",
+      "confidence": 0.8,
+      "explanation": "The address is reported on public sources for suspicious activity, but the specific nature of the activity (e.g., drugs, ransomware, fraud) is not detailed in the provided context, leading to an 'Other' classification.",
+      "suggested_tags": [
+        "suspicious",
+        "public_report",
+        "unspecified_illicit_activity"
+      ]
+    },
+    "tags": [
+      "suspicious",
+      "public_report",
+      "unspecified_illicit_activity"
+    ],
+    "lastSeen": "2025-09-23T15:59:29.443Z",
+    "sampleTx": [],
+    "graph": {
+      "nodes": [
+        {
+          "id": "0x94A1B5CdB22c43faab4AbEb5c74999895464Ddaf",
+          "label": "0x94A1B5CdB22c43faab4AbEb5c74999895464Ddaf",
+          "type": "address",
+          "riskScore": 0.8
+        }
+      ],
+      "links": []
+    },
+    "createdAt": "2025-09-23T13:56:57.178Z",
+    "updatedAt": "2025-09-23T15:59:29.443Z"
+  },
+  {
+    "address": "0xA60C772958a3eD56c1F15dD055bA37AC8e523a0D",
+    "nansen": {
+      "pagination": {
+        "page": 1,
+        "per_page": 10,
+        "is_last_page": true
+      },
+      "data": []
+    },
+    "ai": {
+      "category": "Other",
+      "confidence": 0.8,
+      "explanation": "The address has been publicly reported for suspicious activity, but the provided context does not offer specific details to classify it into one of the more defined illicit categories.",
+      "suggested_tags": [
+        "Suspicious",
+        "Publicly Reported",
+        "Unclassified Illicit Activity"
+      ]
+    },
+    "tags": [
+      "Suspicious",
+      "Publicly Reported",
+      "Unclassified Illicit Activity"
+    ],
+    "lastSeen": "2025-09-23T15:59:47.652Z",
+    "sampleTx": [],
+    "graph": {
+      "nodes": [
+        {
+          "id": "0xA60C772958a3eD56c1F15dD055bA37AC8e523a0D",
+          "label": "0xA60C772958a3eD56c1F15dD055bA37AC8e523a0D",
+          "type": "address",
+          "riskScore": 0.8
+        }
+      ],
+      "links": []
+    },
+    "createdAt": "2025-09-23T13:57:01.741Z",
+    "updatedAt": "2025-09-23T15:59:47.652Z"
+  },
+  {
+    "address": "0x2717c5e28cf931547B621a5dddb772Ab6A35B701",
+    "nansen": {
+      "pagination": {
+        "page": 1,
+        "per_page": 10,
+        "is_last_page": true
+      },
+      "data": [
+        {
+          "chain": "ethereum",
+          "address": "0x2717c5e28cf931547B621a5dddb772Ab6A35B701",
+          "token_address": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
+          "token_symbol": "CDAI",
+          "token_name": "Compound Dai",
+          "token_amount": 1000000,
+          "price_usd": 0.024930276696366566,
+          "value_usd": 24930.276696366567
+        }
+      ]
+    },
+    "ai": {
+      "category": "Money Laundering",
+      "confidence": 0.65,
+      "explanation": "The address was reported on public sources for 'suspicious activity', a broad indicator that often points to illicit financial flows or attempts to obscure the origin of funds, which is consistent with money laundering, especially given its presence within a DeFi protocol (CDAI).",
+      "suggested_tags": [
+        "suspicious_activity",
+        "reported",
+        "defi_exposure"
+      ]
+    },
+    "tags": [
+      "suspicious_activity",
+      "reported",
+      "defi_exposure"
+    ],
+    "lastSeen": "2025-09-23T16:00:06.867Z",
+    "sampleTx": [],
+    "graph": {
+      "nodes": [
+        {
+          "id": "0x2717c5e28cf931547B621a5dddb772Ab6A35B701",
+          "label": "0x2717c5e28cf931547B621a5dddb772Ab6A35B701",
+          "type": "address",
+          "riskScore": 0.65
+        }
+      ],
+      "links": []
+    },
+    "createdAt": "2025-09-23T13:57:06.318Z",
+    "updatedAt": "2025-09-23T16:00:06.868Z"
+  },
+  {
+    "address": "0xb1C8094B234DcE6e03f10a5b673c1d8C69739A00",
+    "nansen": {
+      "pagination": {
+        "page": 1,
+        "per_page": 10,
+        "is_last_page": true
+      },
+      "data": []
+    },
+    "ai": {
+      "category": "Other",
+      "confidence": 0.8,
+      "explanation": "The address is publicly reported for suspicious activity, but the specific nature of the activity is not detailed in the provided context.",
+      "suggested_tags": [
+        "Suspicious",
+        "Publicly Reported",
+        "Unidentified Activity"
+      ]
+    },
+    "tags": [
+      "Suspicious",
+      "Publicly Reported",
+      "Unidentified Activity"
+    ],
+    "lastSeen": "2025-09-23T16:00:16.052Z",
+    "sampleTx": [],
+    "graph": {
+      "nodes": [
+        {
+          "id": "0xb1C8094B234DcE6e03f10a5b673c1d8C69739A00",
+          "label": "0xb1C8094B234DcE6e03f10a5b673c1d8C69739A00",
+          "type": "address",
+          "riskScore": 0.8
+        }
+      ],
+      "links": []
+    },
+    "createdAt": "2025-09-23T13:57:10.906Z",
+    "updatedAt": "2025-09-23T16:00:16.053Z"
+  },
+  {
+    "address": "0x1356c899D8C9467C7f71C195612F8A395aBf2f0a",
+    "nansen": {
+      "pagination": {
+        "page": 1,
+        "per_page": 10,
+        "is_last_page": true
+      },
+      "data": []
+    },
+    "ai": {
+      "category": "Other",
+      "confidence": 0.8,
+      "explanation": "The address was publicly reported for suspicious activity, but without further details, a specific illicit category cannot be confidently assigned.",
+      "suggested_tags": [
+        "suspicious",
+        "unclassified_illicit",
+        "public_report"
+      ]
+    },
+    "tags": [
+      "suspicious",
+      "unclassified_illicit",
+      "public_report"
+    ],
+    "lastSeen": "2025-09-23T16:00:32.793Z",
+    "sampleTx": [],
+    "graph": {
+      "nodes": [
+        {
+          "id": "0x1356c899D8C9467C7f71C195612F8A395aBf2f0a",
+          "label": "0x1356c899D8C9467C7f71C195612F8A395aBf2f0a",
+          "type": "address",
+          "riskScore": 0.8
+        }
+      ],
+      "links": []
+    },
+    "createdAt": "2025-09-23T13:57:15.473Z",
+    "updatedAt": "2025-09-23T16:00:32.793Z"
+  },
+  {
+    "address": "0x03893a7c7463AE47D46bc7f091665f1893656003",
+    "nansen": {
+      "pagination": {
+        "page": 1,
+        "per_page": 10,
+        "is_last_page": true
+      },
+      "data": []
+    },
+    "ai": {
+      "category": "Other",
+      "confidence": 0.7,
+      "explanation": "The address has been reported on public sources for suspicious activity, but the specific nature of the illicit activity is not detailed in the provided context.",
+      "suggested_tags": [
+        "suspicious",
+        "reported_illicit",
+        "unclassified_activity"
+      ]
+    },
+    "tags": [
+      "suspicious",
+      "reported_illicit",
+      "unclassified_activity"
+    ],
+    "lastSeen": "2025-09-23T16:00:45.400Z",
+    "sampleTx": [],
+    "graph": {
+      "nodes": [
+        {
+          "id": "0x03893a7c7463AE47D46bc7f091665f1893656003",
+          "label": "0x03893a7c7463AE47D46bc7f091665f1893656003",
+          "type": "address",
+          "riskScore": 0.7
+        }
+      ],
+      "links": []
+    },
+    "createdAt": "2025-09-23T13:57:20.029Z",
+    "updatedAt": "2025-09-23T16:00:45.400Z"
+  },
+  {
+    "address": "0xaEaaC358560e11f52454D997AAFF2c5731B6f8a6",
+    "nansen": {
+      "pagination": {
+        "page": 1,
+        "per_page": 10,
+        "is_last_page": true
+      },
+      "data": []
+    },
+    "ai": {
+      "category": "Other",
+      "confidence": 0.3,
+      "explanation": "The address is reported on public sources for suspicious activity, but no specific details are provided to classify it into a definite category such as Drugs, Ransomware, Fraud/Scam, Money Laundering, or Terror Financing.",
+      "suggested_tags": [
+        "Suspicious",
+        "Unclassified"
+      ]
+    },
+    "tags": [
+      "Suspicious",
+      "Unclassified"
+    ],
+    "lastSeen": "2025-09-23T16:00:51.914Z",
+    "sampleTx": [],
+    "graph": {
+      "nodes": [
+        {
+          "id": "0xaEaaC358560e11f52454D997AAFF2c5731B6f8a6",
+          "label": "0xaEaaC358560e11f52454D997AAFF2c5731B6f8a6",
+          "type": "address",
+          "riskScore": 0.3
+        }
+      ],
+      "links": []
+    },
+    "createdAt": "2025-09-23T13:57:24.563Z",
+    "updatedAt": "2025-09-23T16:00:51.914Z"
+  },
+  {
+    "address": "0x22aaA7720ddd5388A3c0A3333430953C68f1849b",
+    "nansen": {
+      "pagination": {
+        "page": 1,
+        "per_page": 10,
+        "is_last_page": true
+      },
+      "data": [
+        {
+          "chain": "ethereum",
+          "address": "0x22aaA7720ddd5388A3c0A3333430953C68f1849b",
+          "token_address": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
+          "token_symbol": "CDAI",
+          "token_name": "Compound Dai",
+          "token_amount": 10000,
+          "price_usd": 0.024889595937894474,
+          "value_usd": 248.89595937894475
+        }
+      ]
+    },
+    "ai": {
+      "category": "Other",
+      "confidence": 0.85,
+      "explanation": "Address is publicly reported for suspicious activity, but the provided context lacks specific details to classify it into Drugs, Ransomware, Fraud/Scam, Money Laundering, or Terror Financing.",
+      "suggested_tags": [
+        "Suspicious Activity",
+        "Publicly Reported",
+        "Uncategorized",
+        "Investigation Needed"
+      ]
+    },
+    "tags": [
+      "Suspicious Activity",
+      "Publicly Reported",
+      "Uncategorized",
+      "Investigation Needed"
+    ],
+    "lastSeen": "2025-09-23T16:01:12.788Z",
+    "sampleTx": [],
+    "graph": {
+      "nodes": [
+        {
+          "id": "0x22aaA7720ddd5388A3c0A3333430953C68f1849b",
+          "label": "0x22aaA7720ddd5388A3c0A3333430953C68f1849b",
+          "type": "address",
+          "riskScore": 0.85
+        }
+      ],
+      "links": []
+    },
+    "createdAt": "2025-09-23T13:57:29.130Z",
+    "updatedAt": "2025-09-23T16:01:12.789Z"
+  },
+  {
+    "address": "0x9AD122c22B14202B4490eDAf288FDb3C7cb3ff5E",
+    "nansen": {
+      "pagination": {
+        "page": 1,
+        "per_page": 10,
+        "is_last_page": true
+      },
+      "data": []
+    },
+    "ai": {
+      "category": "Other",
+      "confidence": 0.6,
+      "explanation": "The address is publicly reported for suspicious activity, but specific details are not provided by Nansen or the scraped context to classify it into a predefined illicit category.",
+      "suggested_tags": [
+        "suspicious_activity",
+        "unclassified_illicit",
+        "insufficient_data"
+      ]
+    },
+    "tags": [
+      "suspicious_activity",
+      "unclassified_illicit",
+      "insufficient_data"
+    ],
+    "lastSeen": "2025-09-23T16:01:25.429Z",
+    "sampleTx": [],
+    "graph": {
+      "nodes": [
+        {
+          "id": "0x9AD122c22B14202B4490eDAf288FDb3C7cb3ff5E",
+          "label": "0x9AD122c22B14202B4490eDAf288FDb3C7cb3ff5E",
+          "type": "address",
+          "riskScore": 0.6
+        }
+      ],
+      "links": []
+    },
+    "createdAt": "2025-09-23T13:57:33.723Z",
+    "updatedAt": "2025-09-23T16:01:25.430Z"
+  },
+  {
+    "address": "0x23773E65ed146A459791799d01336DB287f25334",
+    "nansen": {
+      "pagination": {
+        "page": 1,
+        "per_page": 10,
+        "is_last_page": true
+      },
+      "data": [
+        {
+          "chain": "ethereum",
+          "address": "0x23773E65ed146A459791799d01336DB287f25334",
+          "token_address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+          "token_symbol": "DAI",
+          "token_name": "DAI",
+          "token_amount": 11300000.00407,
+          "price_usd": 0.9999133592422627,
+          "value_usd": 11299020.963507216
+        },
+        {
+          "chain": "ethereum",
+          "address": "0x23773E65ed146A459791799d01336DB287f25334",
+          "token_address": "0x24ccedebf841544c9e6a62af4e8c2fa6e5a46fde",
+          "token_symbol": "BLUESPARROW",
+          "token_name": "BlueSparrowToken",
+          "token_amount": 50,
+          "price_usd": 0.01581073987214278,
+          "value_usd": 0.7905369936071389
+        },
+        {
+          "chain": "ethereum",
+          "address": "0x23773E65ed146A459791799d01336DB287f25334",
+          "token_address": "0x6226e00bcac68b0fe55583b90a1d727c14fab77f",
+          "token_symbol": "MTV",
+          "token_name": "MultiVAC",
+          "token_amount": 1000,
+          "price_usd": 0.0004734058589116108,
+          "value_usd": 0.4734058589116108
+        }
+      ]
+    },
+    "ai": {
+      "category": "Money Laundering",
+      "confidence": 0.85,
+      "explanation": "The address has been publicly reported for suspicious activity and holds a very significant amount of DAI ($11.3M), which is a common characteristic of addresses involved in processing and obscuring the origins of illicit funds.",
+      "suggested_tags": [
+        "suspicious_activity",
+        "large_funds",
+        "illicit_finance",
+        "publicly_reported"
+      ]
+    },
+    "tags": [
+      "suspicious_activity",
+      "large_funds",
+      "illicit_finance",
+      "publicly_reported"
+    ],
+    "lastSeen": "2025-09-23T16:01:33.198Z",
+    "sampleTx": [],
+    "graph": {
+      "nodes": [
+        {
+          "id": "0x23773E65ed146A459791799d01336DB287f25334",
+          "label": "0x23773E65ed146A459791799d01336DB287f25334",
+          "type": "address",
+          "riskScore": 0.85
+        }
+      ],
+      "links": []
+    },
+    "createdAt": "2025-09-23T13:57:38.303Z",
+    "updatedAt": "2025-09-23T16:01:33.199Z"
+  },
+  {
+    "address": "0xA160cdAB225685dA1d56aa342Ad8841c3b53f291",
+    "nansen": {
+      "pagination": {
+        "page": 1,
+        "per_page": 10,
+        "is_last_page": true
+      },
+      "data": [
+        {
+          "chain": "ethereum",
+          "address": "0xA160cdAB225685dA1d56aa342Ad8841c3b53f291",
+          "token_address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+          "token_symbol": "ETH",
+          "token_name": "Ethereum",
+          "token_amount": 135400,
+          "price_usd": 4191.006884251062,
+          "value_usd": 567462332.1275938
+        },
+        {
+          "chain": "ethereum",
+          "address": "0xA160cdAB225685dA1d56aa342Ad8841c3b53f291",
+          "token_address": "0xb03eef386a61b5b462051636001485fffdd3d843",
+          "token_symbol": "AMERICA",
+          "token_name": "America Party",
+          "token_amount": 200000000,
+          "price_usd": 1.4067933331558007e-7,
+          "value_usd": 28.135866663116015
+        },
+        {
+          "chain": "ethereum",
+          "address": "0xA160cdAB225685dA1d56aa342Ad8841c3b53f291",
+          "token_address": "0x45510db2481353178db5abb87c96805fadad0724",
+          "token_symbol": "FTMX",
+          "token_name": "FUCK THE MATRIX",
+          "token_amount": 13.333333333333334,
+          "price_usd": 0.09387814332305276,
+          "value_usd": 1.2517085776407035
+        },
+        {
+          "chain": "ethereum",
+          "address": "0xA160cdAB225685dA1d56aa342Ad8841c3b53f291",
+          "token_address": "0xdb99b0477574ac0b2d9c8cec56b42277da3fdb82",
+          "token_symbol": "DECT",
+          "token_name": "DEC Token",
+          "token_amount": 935,
+          "price_usd": 0.0002716682221261252,
+          "value_usd": 0.25400978768792704
+        },
+        {
+          "chain": "ethereum",
+          "address": "0xA160cdAB225685dA1d56aa342Ad8841c3b53f291",
+          "token_address": "0xa728aa2de568766e2fa4544ec7a77f79c0bf9f97",
+          "token_symbol": "JOK",
+          "token_name": "Jok",
+          "token_amount": 1293483,
+          "price_usd": 1.455577768624229e-7,
+          "value_usd": 0.18827650988933736
+        },
+        {
+          "chain": "ethereum",
+          "address": "0xA160cdAB225685dA1d56aa342Ad8841c3b53f291",
+          "token_address": "0x9abfc0f085c82ec1be31d30843965fcc63053ffe",
+          "token_symbol": "Q*",
+          "token_name": "QSTAR",
+          "token_amount": 900,
+          "price_usd": 0.0000926646378784365,
+          "value_usd": 0.08339817409059286
+        },
+        {
+          "chain": "ethereum",
+          "address": "0xA160cdAB225685dA1d56aa342Ad8841c3b53f291",
+          "token_address": "0x232fb065d9d24c34708eedbf03724f2e95abe768",
+          "token_symbol": "SHEESHA",
+          "token_name": "Sheesha Finance",
+          "token_amount": 0.01,
+          "price_usd": 2.0218581591054194,
+          "value_usd": 0.020218581591054195
+        },
+        {
+          "chain": "ethereum",
+          "address": "0xA160cdAB225685dA1d56aa342Ad8841c3b53f291",
+          "token_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "token_symbol": "WETH",
+          "token_name": "Wrapped Ether",
+          "token_amount": 1e-7,
+          "price_usd": 4188.769987769694,
+          "value_usd": 0.0004188769987769694
+        }
+      ]
+    },
+    "ai": {
+      "category": "Money Laundering",
+      "confidence": 0.85,
+      "explanation": "The address holds a significant amount of ETH (over $567M USD), a token named 'FUCK THE MATRIX' (suggesting anti-establishment or illicit leanings), and has been publicly reported for suspicious activity, all indicative of obscuring the origin or destination of illicit funds.",
+      "suggested_tags": [
+        "Suspicious Activity",
+        "Illicit Finance",
+        "Anti-establishment Token",
+        "Large Holdings"
+      ]
+    },
+    "tags": [
+      "Suspicious Activity",
+      "Illicit Finance",
+      "Anti-establishment Token",
+      "Large Holdings"
+    ],
+    "lastSeen": "2025-09-23T16:01:46.396Z",
+    "sampleTx": [],
+    "graph": {
+      "nodes": [
+        {
+          "id": "0xA160cdAB225685dA1d56aa342Ad8841c3b53f291",
+          "label": "0xA160cdAB225685dA1d56aa342Ad8841c3b53f291",
+          "type": "address",
+          "riskScore": 0.85
+        }
+      ],
+      "links": []
+    },
+    "createdAt": "2025-09-23T13:57:42.863Z",
+    "updatedAt": "2025-09-23T16:01:46.397Z"
+  }
+]
